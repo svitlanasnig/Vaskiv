@@ -1,0 +1,82 @@
+body {
+    font-family: sans-serif;
+    position: ;
+}
+
+h1{
+  text-align: center;
+}
+
+main{
+  position: absolute;
+  left: 60px;
+}
+
+iframe{
+    background-color:  rgb(35, 35, 36);
+}
+
+footer{
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 920px;
+  left: 60px;
+}
+
+
+header{
+  display: flex;
+  justify-content: space-around;
+}
+
+.asd:hover{
+  color: black;
+  font-weight: 200px;
+}
+
+.asw:hover{
+  color: black;
+  font-weight: 200px;
+}
+
+.asd:hover{
+  color: black;
+  font-weight: 20
+}
+
+nav a{
+    position: absolute;
+    left: -80px;
+    top: 400px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    text-size: 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 0 5px 5px 0;
+}
+
+
+nav a:hover{
+    left: 0;
+}
+
+.about{
+    top: 20px;
+    background-color: #000000;
+}
+
+
+.blog{
+    top: 80px;
+    background-color: #ff0000;
+}
+
+.projects{
+    top: 140px;
+    background-color: #ffee00;
+}
+
+
